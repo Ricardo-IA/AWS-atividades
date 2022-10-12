@@ -1,4 +1,5 @@
 # Instruções para atividade práticas-AWS
+Aula Professor Cassiano Peres: Analista e desenvolvedor de sistemas
 ### Kinesis Delivery Stream
 
 - AWS Console -> Kinesis -> Create Firehose Delivery Stream "StreamName" -> Direct PUT -> Next -> Choose Destination -> Create S3 Bucket “covid-vaccines-logs-diolive” -> Configure settings -> buffer size 5mb -> buffer interval 60s -> IAM Role -> create new role -> Review and create
